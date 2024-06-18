@@ -49,4 +49,4 @@ O objetivo deste projeto é explorar e analisar os dados do Catálogo Hipparcos.
 ## Estrutura do Repositório
 
 Dados da estrutura estão descritos dentro do Colab Notebook.
-Os dados foram retirados do database da Kaggle - Astronomy101 with Hipparchos catalogue
+Os dados foram retirados do database da Kaggle - Astronomy101 with Hipparchos catalogue.
