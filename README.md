@@ -1,4 +1,4 @@
-# Análise de Dados Astronômicos do satélite Hipparcos.
+# Análise de Dados Astronômicos do satélite Hipparcos
 
 ## Descrição
 
